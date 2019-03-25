@@ -1,1 +1,1 @@
-# YotaSpeedSwitcher
+#Not realased YotaSpeedSwitcher
