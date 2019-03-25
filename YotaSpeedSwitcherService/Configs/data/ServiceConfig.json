@@ -1,0 +1,12 @@
+{
+  "Abonents": [
+    {
+      "Login": "Sergey4Zhuravlev@gmail.com",
+      "Password": "TESIII",
+      "MinimalSpeed": 64,
+      "MaximalSpeed": -1,
+      "MaximalPrice": 1600,
+      "Enabled": true
+    }
+  ]
+}
