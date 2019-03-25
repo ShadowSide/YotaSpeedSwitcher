@@ -1,2 +1,2 @@
 #YotaSpeedSwitcher
-Not realased
+not released
