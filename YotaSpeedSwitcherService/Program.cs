@@ -6,7 +6,9 @@ namespace YotaSpeedSwitcherService
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var app = new Bootstrapper();
+            app.Start();
+            app.Run();
         }
     }
 }

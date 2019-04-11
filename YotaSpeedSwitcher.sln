@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
+VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YotaSpeedSwitcher", "YotaSpeedSwitcher\YotaSpeedSwitcher.csproj", "{5715C2C8-D50A-42E6-A68C-7FAF62996364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YotaSpeedSwitcher", "YotaSpeedSwitcher\YotaSpeedSwitcher.csproj", "{EC006E9E-27E3-4B31-93FF-AE42E765290A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YotaSpeedSwitcherService", "YotaSpeedSwitcherService\YotaSpeedSwitcherService.csproj", "{E246D32E-3013-477D-9F22-A1E98D9F4C01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YotaSpeedSwitcherService", "YotaSpeedSwitcherService\YotaSpeedSwitcherService.csproj", "{E9291E0B-6A05-4001-82DE-F6AB4BC01D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{9FDC15C9-8DC5-49B7-BF57-EF81644D268B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5715C2C8-D50A-42E6-A68C-7FAF62996364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5715C2C8-D50A-42E6-A68C-7FAF62996364}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5715C2C8-D50A-42E6-A68C-7FAF62996364}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5715C2C8-D50A-42E6-A68C-7FAF62996364}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E246D32E-3013-477D-9F22-A1E98D9F4C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E246D32E-3013-477D-9F22-A1E98D9F4C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E246D32E-3013-477D-9F22-A1E98D9F4C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E246D32E-3013-477D-9F22-A1E98D9F4C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC006E9E-27E3-4B31-93FF-AE42E765290A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC006E9E-27E3-4B31-93FF-AE42E765290A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC006E9E-27E3-4B31-93FF-AE42E765290A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC006E9E-27E3-4B31-93FF-AE42E765290A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9291E0B-6A05-4001-82DE-F6AB4BC01D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9291E0B-6A05-4001-82DE-F6AB4BC01D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9291E0B-6A05-4001-82DE-F6AB4BC01D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9291E0B-6A05-4001-82DE-F6AB4BC01D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDC15C9-8DC5-49B7-BF57-EF81644D268B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDC15C9-8DC5-49B7-BF57-EF81644D268B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDC15C9-8DC5-49B7-BF57-EF81644D268B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDC15C9-8DC5-49B7-BF57-EF81644D268B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1461C034-B80D-437C-A22D-76046B680CC9}
+		SolutionGuid = {5978F9EB-7FF9-42E4-BF59-AEDB09DC2E3F}
 	EndGlobalSection
 EndGlobal
