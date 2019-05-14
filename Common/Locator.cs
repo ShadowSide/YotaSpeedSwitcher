@@ -45,6 +45,6 @@ namespace Common
 
     public static class Static
     {
-        static ILocator Locator { get; } = new Locator();
+        public static ILocator Locator { get; } = new Locator();
     }
 }

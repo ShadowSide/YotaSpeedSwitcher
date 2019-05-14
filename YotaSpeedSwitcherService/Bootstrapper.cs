@@ -11,7 +11,7 @@ namespace YotaSpeedSwitcherService
 
         internal void Start()
         {
-            Static.Locator.Register<IServiceSettings>();
+            //Static.Locator.Register<IServiceSettings>();
         }
 
         internal void Run()
